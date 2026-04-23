@@ -18,5 +18,5 @@ Bu çalışmada, R programlama dilinin temel (Base R) fonksiyonları kullanılar
 
 ## Dosya Yapısı
 - `Analiz.R`: Analiz kodlarını içeren R scripti.
-- `SuperMarketAnalysis.csv`: Ham veri seti.
-- `*.png`: Analizden elde edilen grafikler.
+
+
