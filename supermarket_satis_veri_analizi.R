@@ -1,7 +1,7 @@
 #### SÜPERMARKET STRATEJİK ANALİZ PROJESİ ####
 
 #Veriyi Okumak
-df = read.csv("SuperMarketAnalysis.csv")
+df = read.csv("SuperMarket Analysis.csv")
 
 #Veri Özeti
 head(df)
